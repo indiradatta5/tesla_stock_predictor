@@ -87,7 +87,5 @@ For any questions or suggestions, please contact [Indira Datta](mailto:indiradat
 
 Use the provided Google Sheets template to evaluate the performance of your forecast against real data from Google Finance. Follow the instructions in the sheet to input your forecasted and actual stock prices.
 
-By the end of this project, you will be confident in analyzing, visualizing, and forecasting the price of any stock of your choice.
-
 ---
 
